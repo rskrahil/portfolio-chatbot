@@ -1,0 +1,38 @@
+Name: Rahil Shaikh
+Degree: Master of Science in Information Technology
+University: University of the Cumberlands
+GPA: 4.0 / 4.0
+Graduation: Expected Spring 2026
+Location: Phoenix, AZ, US
+Phone: +1 (602) 301-XXXX
+Email: rskrahilshaikh@gmail.com
+LinkedIn: linkedin.com/in/rskrahilshaikh
+GitHub: github.com/rskrahil
+
+About:
+Rahil Shaikh is a Full Stack Developer, Python Developer, and Data Analyst
+with hands-on experience building scalable web applications, RESTful APIs,
+and data pipelines. He is pursuing an MS in Information Technology at
+University of the Cumberlands with a perfect 4.0 GPA. He is actively
+looking for opportunities in software engineering, data analysis, backend
+development, and AI/ML engineering roles.
+
+Technical Skills:
+Programming Languages: Python 3, JavaScript (ES6+), Java, SQL, HTML, CSS
+Frontend: React, HTML5, CSS3, Tailwind CSS, Responsive Web Design
+Backend: Django, Flask, FastAPI, RESTful API Design, Microservices,
+         Pydantic, OAuth2, JWT Authentication, Node.js (familiar)
+Data and ML: Pandas, NumPy, scikit-learn, Data Wrangling, EDA,
+             ETL Processes, Collaborative Filtering, Data Visualization,
+             Statistical Analysis, Tableau
+Databases: PostgreSQL, MySQL, SQLAlchemy ORM, Alembic
+DevOps and Tools: Docker, docker-compose, CI/CD (GitHub Actions),
+                  Git, GitHub, Postman, pytest, Linux (Ubuntu), Bash, VS Code
+Methodologies: Agile, Scrum, OOP, SDLC, System Design,
+               Data Structures and Algorithms, Version Control
+
+Certifications:
+Data Analyst Certificate — Data Lumina, 2024
+Machine Learning Engineer Certificate — Symbiosis, 2024
+Python Programming Certificate — DataFlair, 2021
+Git Certificate — Simplilearn, 2025

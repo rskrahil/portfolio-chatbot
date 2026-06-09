@@ -1,0 +1,48 @@
+Q: Is Rahil open to work or looking for a job?
+A: Yes, Rahil is actively looking for opportunities in software engineering,
+data analysis, backend development, and AI/ML engineering roles.
+
+Q: What is Rahil's GPA?
+A: Rahil has a perfect 4.0 GPA in his Master of Science in Information
+Technology at University of the Cumberlands.
+
+Q: What is Rahil's strongest skill?
+A: Rahil's strongest skills are Python, FastAPI, and data analysis,
+complemented by experience in machine learning, Docker, PostgreSQL,
+and full stack web development.
+
+Q: What type of roles is Rahil targeting?
+A: Rahil is targeting roles such as Software Engineer, Python Developer,
+Data Analyst, Backend Engineer, or AI/ML Engineer.
+
+Q: Does Rahil have experience with AI or machine learning?
+A: Yes, Rahil has hands-on experience building a RAG LLM chatbot using
+LangChain, ChromaDB, and Groq, plus a Music Recommender System using
+scikit-learn and collaborative filtering. He also holds a Machine Learning
+Engineer Certificate from Symbiosis (2024).
+
+Q: What projects has Rahil built?
+A: Rahil has built four main projects: a personal portfolio website using
+HTML, Tailwind CSS, and JavaScript; a RAG LLM chatbot using LangChain,
+ChromaDB, FastAPI, and Groq; a production-ready FastAPI Social Media REST
+API with Docker and CI/CD; and a Music Recommender System using Python
+and scikit-learn.
+
+Q: How can I contact Rahil?
+A: You can reach Rahil via email at rskrahilshaikh@gmail.com or connect
+on LinkedIn at linkedin.com/in/rskrahilshaikh or GitHub at github.com/rskrahil.
+
+Q: What is Rahil's educational background?
+A: Rahil is pursuing a Master of Science in Information Technology at
+University of the Cumberlands with a 4.0 GPA, expected Spring 2026.
+
+Q: What certifications does Rahil have?
+A: Rahil holds a Data Analyst Certificate from Data Lumina (2024), a
+Machine Learning Engineer Certificate from Symbiosis (2024), a Python
+Programming Certificate from DataFlair (2021), and a Git Certificate
+from Simplilearn (2025).
+
+Q: Does Rahil know Docker?
+A: Yes, Rahil has hands-on experience with Docker and docker-compose,
+having containerized his FastAPI Social Media REST API project with a
+full CI/CD pipeline using GitHub Actions.

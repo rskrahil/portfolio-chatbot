@@ -1,0 +1,36 @@
+Project 1: Portfolio Website
+Stack: HTML, Tailwind CSS, vanilla JavaScript
+Description: Built a personal portfolio website featuring a dark theme
+with radial gradient background, blue accents (#2563eb), full-page scroll
+snap sections, interactive skill category cards with chip grid, an
+experience timeline showing Data Analyst at Data Lumina and Customer
+Service at AssurEdge, an education timeline, and a contact page with a
+cursor-following SVG boy character. Title: Full Stack Developer | MS
+Information Technology. Three pages: index.html, about.html, contact.html.
+
+Project 2: RAG LLM Portfolio Chatbot
+Stack: Python, LangChain, ChromaDB, FastAPI, Groq (Llama 3),
+sentence-transformers (all-MiniLM-L6-v2), vanilla JavaScript
+Description: Built a Retrieval-Augmented Generation chatbot embedded as
+a widget on the portfolio website. Visitors can ask questions about
+Rahil's skills, experience, and projects. The system uses ChromaDB as
+a local vector store, sentence-transformers for embeddings, LangChain
+for orchestration, FastAPI as the backend server, and Groq's free tier
+for LLM inference with Llama 3. Runs entirely free with no API costs
+except Groq's generous free tier.
+
+Project 3: FastAPI Social Media REST API
+Stack: FastAPI, PostgreSQL, SQLAlchemy ORM, Docker, GitHub Actions, pytest
+GitHub: github.com/rskrahil/fastapi-production-boilerplate
+Description: Designed and engineered a scalable, production-ready REST API
+supporting user authentication (OAuth2/JWT), full CRUD operations, and
+social features (likes/comments). Containerized with Docker and
+docker-compose, implemented Alembic for version-controlled database
+migrations, and built a full CI/CD pipeline via GitHub Actions. Wrote
+comprehensive unit and integration tests with pytest.
+
+Project 4: Music Recommender System
+Stack: Python, Pandas, scikit-learn, collaborative filtering
+Description: Developed a machine learning pipeline applying collaborative
+filtering and exploratory data analysis (EDA) to build a personalized
+music recommendation engine.

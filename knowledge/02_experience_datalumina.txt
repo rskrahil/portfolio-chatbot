@@ -1,0 +1,26 @@
+Role: Data Analyst
+Company: Data Lumina
+Duration: February 2024 to March 2024
+Location: Remote
+
+Rahil worked as a Data Analyst at Data Lumina where he engineered a
+classification system for 2,000+ text entries into temporal categories
+(past, present, future), improving data retrieval speed by 30% for
+analytics teams. He cleaned and validated 500+ records during preliminary
+data processing, significantly improving accuracy and reliability for
+downstream analysis.
+
+Rahil collaborated with a 5-member cross-functional team to define
+categorization standards and document workflows, ensuring consistent
+data labeling across two concurrent analysis projects. He coordinated
+task distribution and maintained clear process documentation, reducing
+miscommunication and improving overall project efficiency. He also led
+weekly team meetings and authored detailed Minutes of Meeting (MOMs),
+improving communication clarity and reducing task overlap by 25%.
+
+Upon completing this role, Rahil received a Data Analyst Certificate
+from Data Lumina in 2024.
+
+Skills demonstrated: data analysis, data classification, data cleaning,
+data validation, ETL processes, technical documentation, cross-functional
+collaboration, team leadership, Python, SQL.
